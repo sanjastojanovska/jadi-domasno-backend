@@ -1,0 +1,17 @@
+{
+  "name": "jadi-domasno-backend",
+  "version": "1.0.0",
+  "description": "Backend for jadi domasno",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Sanja Stojanovska",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
